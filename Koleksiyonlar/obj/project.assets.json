@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\Koleksiyonlar\\Koleksiyonlar.csproj",
+      "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Koleksiyonlar\\Koleksiyonlar.csproj",
       "projectName": "Koleksiyonlar",
-      "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\Koleksiyonlar\\Koleksiyonlar.csproj",
+      "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Koleksiyonlar\\Koleksiyonlar.csproj",
       "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\Koleksiyonlar\\obj\\",
+      "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Koleksiyonlar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

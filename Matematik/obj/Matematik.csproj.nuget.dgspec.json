@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\Matematik\\Matematik.csproj": {}
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Matematik\\Matematik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\Matematik\\Matematik.csproj": {
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Matematik\\Matematik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\Matematik\\Matematik.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Matematik\\Matematik.csproj",
         "projectName": "Matematik",
-        "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\Matematik\\Matematik.csproj",
+        "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Matematik\\Matematik.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\Matematik\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Matematik\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

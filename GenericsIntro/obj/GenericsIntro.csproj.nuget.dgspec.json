@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\GenericsIntro\\GenericsIntro.csproj": {}
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\GenericsIntro\\GenericsIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\GenericsIntro\\GenericsIntro.csproj": {
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\GenericsIntro\\GenericsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\GenericsIntro\\GenericsIntro.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\GenericsIntro\\GenericsIntro.csproj",
         "projectName": "GenericsIntro",
-        "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\GenericsIntro\\GenericsIntro.csproj",
+        "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\GenericsIntro\\GenericsIntro.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\GenericsIntro\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\GenericsIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

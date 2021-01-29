@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0clBW5l5ZsCESQRPsoH6NJkIORQTjO1EaTLv8QRW+u7VfuGfx4KOeW7MmvUdyQ6PvrDSfzxfIVvGPLZdtTS0yQ==",
+  "dgSpecHash": "IgtOtA7aIocwV+Pp/03Zu+Y1AmL/FwYy7ISrpUEi+yTu14EAIf5tDB5zA9/rlUorvB5ioX7xBJvqEhe+WPQ1cQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\deniz\\source\\repos\\giris\\GenericsIntro\\GenericsIntro.csproj",
+  "projectFilePath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\GenericsIntro\\GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

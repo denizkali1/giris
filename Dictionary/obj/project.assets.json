@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\Dictionary\\Dictionary.csproj",
+      "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Dictionary\\Dictionary.csproj",
       "projectName": "Dictionary",
-      "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\Dictionary\\Dictionary.csproj",
+      "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Dictionary\\Dictionary.csproj",
       "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\Dictionary\\obj\\",
+      "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\Dictionary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

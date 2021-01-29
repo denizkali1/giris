@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {}
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
         "projectName": "DegerVeReferansTipler",
-        "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+        "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\DegerVeReferansTipler\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\DegerVeReferansTipler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

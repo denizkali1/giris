@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj": {}
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj": {
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj",
         "projectName": "ClassMetotDemo",
-        "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj",
+        "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\ClassMetotDemo\\ClassMetotDemo.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\ClassMetotDemo\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\ClassMetotDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

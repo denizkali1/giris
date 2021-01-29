@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\metotlar\\metotlar.csproj": {}
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\metotlar\\metotlar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\metotlar\\metotlar.csproj": {
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\metotlar\\metotlar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\metotlar\\metotlar.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\metotlar\\metotlar.csproj",
         "projectName": "metotlar",
-        "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\metotlar\\metotlar.csproj",
+        "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\metotlar\\metotlar.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\metotlar\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\metotlar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

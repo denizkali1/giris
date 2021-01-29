@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\donguler\\donguler.csproj",
+      "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\donguler\\donguler.csproj",
       "projectName": "donguler",
-      "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\donguler\\donguler.csproj",
+      "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\donguler\\donguler.csproj",
       "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\donguler\\obj\\",
+      "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\donguler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

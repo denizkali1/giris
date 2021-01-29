@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\giris\\giris.csproj": {}
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\giris\\giris.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deniz\\source\\repos\\giris\\giris\\giris.csproj": {
+    "C:\\Users\\deniz\\Documents\\GitHub\\giris\\giris\\giris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\giris\\giris.csproj",
+        "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\giris\\giris.csproj",
         "projectName": "giris",
-        "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\giris\\giris.csproj",
+        "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\giris\\giris.csproj",
         "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\giris\\obj\\",
+        "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\giris\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

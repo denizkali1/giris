@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\OOP3\\OOP3.csproj",
+      "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\OOP3\\OOP3.csproj",
       "projectName": "OOP3",
-      "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\OOP3\\OOP3.csproj",
+      "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\OOP3\\OOP3.csproj",
       "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\OOP3\\obj\\",
+      "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\OOP3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",

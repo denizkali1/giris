@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deniz\\source\\repos\\giris\\classintro\\classintro.csproj",
+      "projectUniqueName": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\classintro\\classintro.csproj",
       "projectName": "classintro",
-      "projectPath": "C:\\Users\\deniz\\source\\repos\\giris\\classintro\\classintro.csproj",
+      "projectPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\classintro\\classintro.csproj",
       "packagesPath": "C:\\Users\\deniz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deniz\\source\\repos\\giris\\classintro\\obj\\",
+      "outputPath": "C:\\Users\\deniz\\Documents\\GitHub\\giris\\classintro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deniz\\AppData\\Roaming\\NuGet\\NuGet.Config",
