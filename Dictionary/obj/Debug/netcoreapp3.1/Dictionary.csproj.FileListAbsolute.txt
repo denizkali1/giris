@@ -1,0 +1,13 @@
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\deniz\source\repos\giris\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\giris\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\giris\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\deniz\source\repos\giris\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\giris\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\deniz\source\repos\giris\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\deniz\source\repos\giris\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

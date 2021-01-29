@@ -1,0 +1,13 @@
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.exe
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.deps.json
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.json
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.runtimeconfig.dev.json
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\bin\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.AssemblyInfo.cs
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.dll
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.pdb
+C:\Users\deniz\source\repos\giris\Koleksiyonlar\obj\Debug\netcoreapp3.1\Koleksiyonlar.genruntimeconfig.cache

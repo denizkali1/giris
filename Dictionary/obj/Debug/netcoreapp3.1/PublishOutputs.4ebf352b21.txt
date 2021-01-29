@@ -1,0 +1,5 @@
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\publish\Dictionary.exe
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\publish\Dictionary.dll
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\publish\Dictionary.deps.json
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\publish\Dictionary.runtimeconfig.json
+C:\Users\deniz\source\repos\giris\Dictionary\bin\Debug\netcoreapp3.1\publish\Dictionary.pdb
